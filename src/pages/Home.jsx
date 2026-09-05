@@ -9,7 +9,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8 lg:flex lg:justify-between">
           <div className="max-w-xl">
             <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">
-              Welcome to Our App
+              Welcome to The App
             </h1>
             <p className="mt-5 text-xl text-primary-100">
               A powerful React application built with modern technologies
